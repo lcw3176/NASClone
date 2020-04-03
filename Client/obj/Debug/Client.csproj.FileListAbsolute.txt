@@ -1,0 +1,14 @@
+D:\project\Cs\NASClone\Client\bin\Debug\Client.exe.config
+D:\project\Cs\NASClone\Client\bin\Debug\Client.exe
+D:\project\Cs\NASClone\Client\bin\Debug\Client.pdb
+D:\project\Cs\NASClone\Client\bin\Debug\MetroFramework.dll
+D:\project\Cs\NASClone\Client\bin\Debug\MetroFramework.Fonts.dll
+D:\project\Cs\NASClone\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\project\Cs\NASClone\Client\obj\Debug\Client.Login.resources
+D:\project\Cs\NASClone\Client\obj\Debug\Client.NASClient.resources
+D:\project\Cs\NASClone\Client\obj\Debug\Client.Properties.Resources.resources
+D:\project\Cs\NASClone\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\project\Cs\NASClone\Client\obj\Debug\Client.csproj.CopyComplete
+D:\project\Cs\NASClone\Client\obj\Debug\Client.exe
+D:\project\Cs\NASClone\Client\obj\Debug\Client.pdb
+D:\project\Cs\NASClone\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache

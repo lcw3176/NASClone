@@ -1,0 +1,7 @@
+D:\project\Cs\NASClone\Server\bin\Debug\Server.exe.config
+D:\project\Cs\NASClone\Server\bin\Debug\Server.exe
+D:\project\Cs\NASClone\Server\bin\Debug\Server.pdb
+D:\project\Cs\NASClone\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\project\Cs\NASClone\Server\obj\Debug\Server.exe
+D:\project\Cs\NASClone\Server\obj\Debug\Server.pdb
+D:\project\Cs\NASClone\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache

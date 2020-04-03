@@ -1,0 +1,5 @@
+C:\Users\THE-LEE\Desktop\Server.exe.config
+C:\Users\THE-LEE\Desktop\Server.exe
+C:\Users\THE-LEE\Desktop\Server.pdb
+D:\project\Cs\NASClone\Server\obj\Release\Server.exe
+D:\project\Cs\NASClone\Server\obj\Release\Server.pdb

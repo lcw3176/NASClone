@@ -1,0 +1,10 @@
+C:\Users\THE-LEE\Desktop\Client.exe.config
+C:\Users\THE-LEE\Desktop\Client.exe
+C:\Users\THE-LEE\Desktop\Client.pdb
+D:\project\Cs\NASClone\Client\obj\Release\Client.Login.resources
+D:\project\Cs\NASClone\Client\obj\Release\Client.NASClient.resources
+D:\project\Cs\NASClone\Client\obj\Release\Client.Properties.Resources.resources
+D:\project\Cs\NASClone\Client\obj\Release\Client.csproj.GenerateResource.cache
+D:\project\Cs\NASClone\Client\obj\Release\Client.csproj.CopyComplete
+D:\project\Cs\NASClone\Client\obj\Release\Client.exe
+D:\project\Cs\NASClone\Client\obj\Release\Client.pdb
